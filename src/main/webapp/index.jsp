@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Demo Web Application</h2>
+<h2>Greetings!</h2>
+<b>Demo Web Application</b>
 </body>
 </html>
